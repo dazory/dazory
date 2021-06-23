@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**dazory/dazory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dazory)](https://hits.seeyoufarm.com) 
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Students
+- I am a student at Inha University, Incheon, Korea
+
+### Interest
+- Deep Learning, Computer Vision, Sensor Fusion
+- Leadership, Presentation
+
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dazory.github.io/)](https://dazory.github.io/)
+</div>
