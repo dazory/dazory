@@ -8,7 +8,7 @@
 - I am a student at Inha University, Incheon, Korea
 
 ### Interest
-- Deep Learning, Computer Vision, Sensor Fusion
+- Deep Learning, Computer Vision, Data Fusion
 - Leadership, Presentation
 
 <div align=center>
