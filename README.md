@@ -1,17 +1,10 @@
 <div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dazory)](https://hits.seeyoufarm.com) 
-
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dazory&show_icons=true&theme=default_repocard  )](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dazory&layout=compact&theme=default_repocard  )](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-### Students
-- I am a student at Inha University, Incheon, Korea
+## more information
 
-### Interest
-- Deep Learning, Computer Vision, Data Fusion
-- Leadership, Presentation
-
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dazory.github.io/)](https://dazory.github.io/)
-</div>
+* 😊 Personal Blog: [https://dazory.github.io/](https://dazory.github.io/)
+* ✉ Email: [hong.dazory@gmail.com](mailto:hong.dazory@gmail.com)
