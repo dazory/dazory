@@ -7,4 +7,4 @@
 ## more information
 
 * 😊 Personal Blog: [https://dazory.github.io/](https://dazory.github.io/)
-* ✉ Email: [hong.dazory@gmail.com](mailto:hong.dazory@gmail.com)
+* ✉ Email: [ds.hong@kaist.ac.kr](mailto:ds.hong@kaist.ac.kr)
